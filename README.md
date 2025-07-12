@@ -1,68 +1,66 @@
-# 👋 Hi there, I'm Shyam Dodway
+# 👋 Hello, I'm Shyam Dodway
 
-🎓 MSc Data Science Graduate | 📊 Data Enthusiast | 💻 Machine Learning Practitioner  
-📍 Based in India | 💼 Open to Opportunities in Data Science, Analytics, or ML
-
----
-
-## 🚀 About Me
-
-I’m a passionate data science graduate with hands-on experience in machine learning, deep learning, and data visualization. I’ve built real-world projects like bone fracture classification using CNNs and interactive dashboards using Tableau.
-
-- 🔍 Interests: Predictive Analytics, Deep Learning, AI for Healthcare
-- 🛠️ Tools: Python, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Tableau
-- 🧠 Quick Learner | 🧪 Problem Solver | 🤝 Team Collaborator
+🎓 MSc Data Science Graduate | 🤖 Machine Learning & AI Enthusiast | 📊 Data Storyteller  
+📍 Based in India | 💼 Actively seeking opportunities in Data Science, Analytics, and Machine Learning
 
 ---
 
-## 🛠️ Skills
+## 🌟 About Me
 
-| Programming | Data Handling | Visualization | ML / DL |
-|-------------|---------------|---------------|---------|
-| Python      | Pandas, NumPy | Tableau, Excel| Scikit-learn, TensorFlow |
-| SQL         | CSV/JSON/DBs  | Matplotlib    | CNN, Regression, Clustering |
+As a passionate and driven MSc Data Science graduate, I strive to uncover patterns and insights from complex datasets to solve real-world problems. I specialize in transforming raw data into meaningful outcomes through machine learning, predictive modeling, and data visualization.
 
----
-
-## 📌 Projects
-
-### 🔬 Bone Fracture Classification (CNN)
-Deep learning model for classifying bone fractures using X-ray images.  
-**Tech Used**: Python, TensorFlow, CNN, OpenCV  
-[GitHub Repo](#) | [Project Demo](#)
-
-### 📈 Suicide Rate Visualization in India
-Tableau dashboard exploring suicide data trends by age, gender, and state.  
-**Tools**: Tableau, Excel  
-[Dashboard](#)
-
-_Add more here..._
+My academic journey and hands-on projects—such as a deep learning-based bone fracture classification model—have equipped me with a solid foundation in AI, data engineering, and analytics. I take pride in writing clean, efficient code and building data-driven solutions that make an impact.
 
 ---
 
-## 🧾 Certifications
+## 🧰 Technical Skills
 
-- Google Data Analytics – Coursera  
-- Python & SQL for Data Science – IBM  
-- Advanced Excel – Internshala  
-- Data Science Job Simulation – Forage
+- **Languages & Tools**: Python, SQL, Linux, Git, Excel  
+- **Libraries & Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow, OpenCV  
+- **Visualization**: Tableau, Matplotlib, Seaborn  
+- **Concepts**: Supervised/Unsupervised Learning, Deep Learning, EDA, CNNs, Time Series
+
+---
+
+## 📂 Featured Projects
+
+### 🧠 Bone Fracture Classification using CNNs  
+A deep learning model to automatically detect and classify types of bone fractures from X-ray images.  
+*Technologies:* Python, TensorFlow, OpenCV, CNN  
+🔗 [GitHub Repository](#)
+
+### 📊 Suicide Rates in India – Tableau Dashboard  
+An interactive dashboard analyzing suicide statistics by age, gender, and region to uncover hidden social patterns.  
+*Tools:* Tableau, Excel  
+🔗 [View Dashboard](#)
+
+---
+
+## 🏅 Certifications
+
+- **Google Data Analytics** – Coursera  
+- **Python and SQL for Data Science** – IBM  
+- **Advanced Excel** – Internshala  
+- **Data Science Job Simulation** – Forage  
+- **Academy of Data Science** – Cert. of Completion
 
 ---
 
 ## 📝 Publications & Patents
 
-- 📄 _"Automated Classification of Bone Fractures using Deep Learning"_  
-- 🛠️ **Patent**: Audio Device Power Limiting System  
-- 🛠️ **Patent**: Parking Management System
+- 📄 **Research Publication**: *Automated Classification of Bone Fractures using Deep Learning*  
+- 🔒 **Patent**: Audio Device Power Limiting System  
+- 🚗 **Patent**: Parking Management System
 
 ---
 
-## 📫 Contact Me
+## 🤝 Let's Connect
 
-📧 shyamdodway058@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/shyam-dodway)  
-📁 [Resume](#) *(Upload to Google Drive or GitHub)*
+📧 Email: shyamdodway058@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/shyam-dodway)  
+📁 [Resume/CV](#) *(Add Drive or GitHub link)*
 
 ---
 
-> _“Turning data into decisions — one model at a time.”_
+> _“I believe in the power of data to drive smarter decisions and create meaningful change. If you're working on something exciting or looking to collaborate, I’d love to hear from you!”_
+
