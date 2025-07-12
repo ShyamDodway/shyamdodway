@@ -1,11 +1,11 @@
-# 👋 Hello, I'm Shyam Dodway
+#  Hello, I'm Shyam Dodway
 
-🎓 MSc Data Science Graduate | 🤖 Machine Learning & AI Enthusiast | 📊 Data Storyteller  
-📍 Based in India | 💼 Actively seeking opportunities in Data Science, Analytics, and Machine Learning
+ MSc Data Science Graduate |  Machine Learning & AI Enthusiast |  Data Storyteller  
+ Based in India |  Actively seeking opportunities in Data Science, Analytics, and Machine Learning
 
 ---
 
-## 🌟 About Me
+##  About Me
 
 As a passionate and driven MSc Data Science graduate, I strive to uncover patterns and insights from complex datasets to solve real-world problems. I specialize in transforming raw data into meaningful outcomes through machine learning, predictive modeling, and data visualization.
 
@@ -13,7 +13,7 @@ My academic journey and hands-on projects—such as a deep learning-based bone f
 
 ---
 
-## 🧰 Technical Skills
+##  Technical Skills
 
 - **Languages & Tools**: Python, SQL, Linux, Git, Excel  
 - **Libraries & Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow, OpenCV  
@@ -22,21 +22,21 @@ My academic journey and hands-on projects—such as a deep learning-based bone f
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 🧠 Bone Fracture Classification using CNNs  
+###  Bone Fracture Classification using CNNs  
 A deep learning model to automatically detect and classify types of bone fractures from X-ray images.  
 *Technologies:* Python, TensorFlow, OpenCV, CNN  
 🔗 [GitHub Repository](#)
 
-### 📊 Suicide Rates in India – Tableau Dashboard  
+###  Suicide Rates in India – Tableau Dashboard  
 An interactive dashboard analyzing suicide statistics by age, gender, and region to uncover hidden social patterns.  
 *Tools:* Tableau, Excel  
 🔗 [View Dashboard](#)
 
 ---
 
-## 🏅 Certifications
+##  Certifications
 
 - **Google Data Analytics** – Coursera  
 - **Python and SQL for Data Science** – IBM  
@@ -46,7 +46,7 @@ An interactive dashboard analyzing suicide statistics by age, gender, and region
 
 ---
 
-## 📝 Publications & Patents
+##  Publications & Patents
 
 - 📄 **Research Publication**: *Automated Classification of Bone Fractures using Deep Learning*  
 - 🔒 **Patent**: Audio Device Power Limiting System  
@@ -54,11 +54,11 @@ An interactive dashboard analyzing suicide statistics by age, gender, and region
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 📧 Email: shyamdodway058@gmail.com  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/shyam-dodway)  
-📁 [Resume/CV](#) *(Add Drive or GitHub link)*
+📁 [Resume/CV](#) https://drive.google.com/file/d/1K_JQOhq43osgTycLSYFPomMwbVFgllqA/view?usp=sharing
 
 ---
 
