@@ -27,12 +27,21 @@ My academic journey and hands-on projects—such as a deep learning-based bone f
 ###  Bone Fracture Classification using CNNs  
 A deep learning model to automatically detect and classify types of bone fractures from X-ray images.  
 *Technologies:* Python, TensorFlow, OpenCV, CNN  
-🔗 [GitHub Repository](#)
+🔗 [GitHub Repository](#) https://github.com/ShyamDodway/Bone-fracture-Classification
 
-###  Suicide Rates in India – Tableau Dashboard  
-An interactive dashboard analyzing suicide statistics by age, gender, and region to uncover hidden social patterns.  
-*Tools:* Tableau, Excel  
-🔗 [View Dashboard](#)
+###  Ad Text Rewriter Agent 
+This project is a lightweight AI agent that rewrites ad text in a fun or professional tone using google/flan-t5-large via Hugging Face and FastAPI.
+*Uses:* Hugging Face LLM via LangChain 
+🔗 [View Dashboard](#) https://github.com/ShyamDodway/ad-text-rewriter-agent
+
+### Sales Performance Analysis Using Python
+
+This project analyzes sales performance across different sales channels: Social Media, Field Sales, and Tally Data.
+The goal is to compare weekly, monthly, and yearly sales, evaluate employee and team performance, and assess
+investments in sales strategies.
+
+🔗 [View Dashboard](#) https://github.com/ShyamDodway/Sales-Performance
+
 
 ---
 
