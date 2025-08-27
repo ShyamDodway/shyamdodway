@@ -29,6 +29,16 @@ A deep learning model to automatically detect and classify types of bone fractur
 *Technologies:* Python, TensorFlow, OpenCV, CNN  
 🔗 [GitHub Repository](#) https://github.com/ShyamDodway/Bone-fracture-Classification
 
+### YouTube-Video-Question-Answering-with-RAG-LLM
+A Retrieval-Augmented Generation (RAG) app that lets users ask questions about any YouTube video.
+The app extracts the video transcript, stores it in a vector database (FAISS), and answers user queries with context-aware responses using OpenAI.
+🔗 [GitHub Repository](#) https://github.com/ShyamDodway/YouTube-Video-Question-Answering-with-RAG-LLM
+
+### Dating Recommendation System
+we are creating a recommendation system that suggests potential matches between male and female user profiles. The recommendation system evaluates 
+the compatibility of these profiles based on various factors, including shared interests, age, and other attributes we used to calculate the match score.
+🔗 [GitHub Repository](#) https://github.com/ShyamDodway/DatingRecommendationSystem
+
 ###  Ad Text Rewriter Agent 
 This project is a lightweight AI agent that rewrites ad text in a fun or professional tone using google/flan-t5-large via Hugging Face and FastAPI.
 *Uses:* Hugging Face LLM via LangChain 
