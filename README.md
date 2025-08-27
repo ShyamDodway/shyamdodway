@@ -77,7 +77,7 @@ investments in sales strategies.
 
 📧 Email: shyamdodway058@gmail.com  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/shyam-dodway)  
-📁 [Resume/CV](#) https://drive.google.com/file/d/1K_JQOhq43osgTycLSYFPomMwbVFgllqA/view?usp=sharing
+📁 [Resume/CV](#) [https://drive.google.com/file/d/1K_JQOhq43osgTycLSYFPomMwbVFgllqA/view?usp=sharing](https://drive.google.com/file/d/1pPPq-6at3Mf-19bEkSt9R5G_m_GaeUbW/view?usp=sharing)
 
 ---
 
