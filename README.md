@@ -37,12 +37,12 @@ The app extracts the video transcript, stores it in a vector database (FAISS), a
 ### Dating Recommendation System
 we are creating a recommendation system that suggests potential matches between male and female user profiles. The recommendation system evaluates 
 the compatibility of these profiles based on various factors, including shared interests, age, and other attributes we used to calculate the match score.
-🔗 [GitHub Repository](#) https://github.com/ShyamDodway/DatingRecommendationSystem
+🔗 [GitHub Repository](#) https://github.com/ShyamDodway/Dating-Recommendation-system
 
-###  Ad Text Rewriter Agent 
-This project is a lightweight AI agent that rewrites ad text in a fun or professional tone using google/flan-t5-large via Hugging Face and FastAPI.
-*Uses:* Hugging Face LLM via LangChain 
-🔗 [View Dashboard](#) https://github.com/ShyamDodway/ad-text-rewriter-agent
+###  Python-Job-Listing-Scraper
+ A Python web scraper that collects job listings from Ambition Box and Glassdoor using BeautifulSoup and Requests
+ *Uses:* BeautifulSoup, Python, requests 
+🔗 [View Dashboard](#) https://github.com/ShyamDodway/Python-Job-Listing-Scraper
 
 ### Sales Performance Analysis Using Python
 
