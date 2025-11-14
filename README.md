@@ -32,6 +32,7 @@ A deep learning model to automatically detect and classify types of bone fractur
 ### YouTube-Video-Question-Answering-with-RAG-LLM
 A Retrieval-Augmented Generation (RAG) app that lets users ask questions about any YouTube video.
 The app extracts the video transcript, stores it in a vector database (FAISS), and answers user queries with context-aware responses using OpenAI.
+
 🔗 [GitHub Repository](#) https://github.com/ShyamDodway/YouTube-Video-Question-Answering-with-RAG-LLM
 
 ### Dating Recommendation System
